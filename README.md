@@ -1,6 +1,6 @@
 # Spider-Man Miles Morales theme for Eitr
 
-A dark [Eitr](https://eitr.info) theme with Spider-Man Miles Morales art: glitch red, magenta and cyan on black, with 6 wallpapers.
+A dark [Eitr](https://eitr.info) theme with Spider-Man Miles Morales art: glitch red, magenta and cyan on black, with 5 wallpapers.
 
 ![Preview](spider-man-miles-morales/preview.png)
 
